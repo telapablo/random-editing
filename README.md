@@ -3,8 +3,8 @@ Patch para TouchDesigner - - -
 
 tutorial 0.001
 
-1 - Baixar e instalar. 
-O "patch" foi criado num software chamado TouchDesigner. É preciso verificar compatibilidade com sua máquina ->   https://docs.derivative.ca/index.php?title=System_Requirements, 
+  1 - Baixar e instalar. 
+Esse "patch" foi desenvolvido num software chamado TouchDesigner. É preciso verificar compatibilidade com sua máquina ->   https://docs.derivative.ca/index.php?title=System_Requirements, 
 
 baixar e instalar o software -> https://www.derivative.ca/099/Downloads/ .
 
@@ -36,8 +36,8 @@ Parabéns, você está editando uma parte do Motion_Reel_PabloPablo_2019! Agora 
 6. Se você chegou até aqui, me fale sobre sua experiência. Posso tentar te ajudar a encontrar os ajustes finais para seu projeto.
 
 
-email -> telapablo@gmail.com
++ email -> telapablo@gmail.com
 
-fb -> https://www.facebook.com/pablopepreto
++ fb -> https://www.facebook.com/pablopepreto
 
-+ animações -> https://telapablo.wixsite.com/taruande
++ outras animações -> https://telapablo.wixsite.com/taruande
