@@ -1,10 +1,13 @@
 - - - EDITOR RANDÔMICO - - -
 Patch para TouchDesigner - - -
+________________________
 
 tutorial 0.001
+______________
+
 
 1. Baixar e instalar. 
-Esse "patch" foi desenvolvido num software de programação visual chamado TouchDesigner. É preciso verificar compatibilidade com sua máquina ->   https://docs.derivative.ca/index.php?title=System_Requirements, 
+Esse "patch" foi desenvolvido numa plataforma de programação visual chamado TouchDesigner. É preciso verificar compatibilidade com sua máquina ->   https://docs.derivative.ca/index.php?title=System_Requirements, 
 
 baixar e instalar o software -> https://www.derivative.ca/099/Downloads/ .
 
