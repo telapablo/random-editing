@@ -3,15 +3,17 @@ Patch para TouchDesigner - - -
 
 tutorial 0.001
 
-  1 - Baixar e instalar. 
-Esse "patch" foi desenvolvido num software chamado TouchDesigner. É preciso verificar compatibilidade com sua máquina ->   https://docs.derivative.ca/index.php?title=System_Requirements, 
+1. Baixar e instalar. 
+Esse "patch" foi desenvolvido num software de programação visual chamado TouchDesigner. É preciso verificar compatibilidade com sua máquina ->   https://docs.derivative.ca/index.php?title=System_Requirements, 
 
 baixar e instalar o software -> https://www.derivative.ca/099/Downloads/ .
 
 No momento da instalação tem a opção de uso não-comercial. Essa versão tem algumas limitações como resolução máxima 1280x720, mas é o suficiente pra muita coisa. 
 
 
-2. Na pasta dentro do arquivo zip você vai encontrar um arquivo com extensão .TOE e uma pasta com 8 vídeos. Abra o arquivo do projeto random_editing.toe que está dentro da pasta. 
+2. Baixar o zip com o arquivo do projeto. -> https://www.mediafire.com/file/182qsv1og81xo5t/random_editing.rar/file
+
+ Na pasta dentro do arquivo zip você vai encontrar um arquivo com extensão .TOE e uma pasta com 8 vídeos. Abra o arquivo do projeto random_editing.toe que está dentro da pasta. 
 
 
 3. Comece experimentando com os vídeo que já tem dentro do projeto. 
